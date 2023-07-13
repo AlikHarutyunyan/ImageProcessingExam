@@ -16,7 +16,7 @@ public class Window extends JFrame {
     public Window() {
 
         try {
-            File url = new File("src/main/resources/alik.jpg");
+            File url = new File("src/main/resources/image.jpg");
              BufferedImage image = null;
             {
                 try {
